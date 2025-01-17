@@ -9,6 +9,7 @@ package BehavioralDP.Observer;
  * @author Omar Fayed
  */
 //Client code that initiates the pattern
+
 public class Client {
     public static void main(String[] args) {
         WeatherPublisher p = new WeatherPublisher();
